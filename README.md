@@ -58,14 +58,24 @@ When contributing to the dataset, please follow these guidelines for transcribin
 
 #### 2.1 Common Substitutions
 
-| **Darija Characters** | **Arabizi** | **Arabic Characters** |  
-|------------------------|-------------|------------------------|
-| 3                      | ع           | ع                      |
-| 7                      | ح           | ح                      |
-| 9                      | ق           | ق                      |
-| 8                      | ه           | هـ                     |
-| 2 (`a`, `i`)           | ء           | همزة                  |
-| 5 (`kh`)               | خ           | خ                      |
+In **Arabizi**, Arabic letters can be expressed using numbers to represent sounds that do not exist in the Latin alphabet. These substitutions are widely recognized in digital communication and should be used consistently throughout the dataset.
+
+| **Darija Characters** | **Arabizi (Numbers)** | **Arabic Characters** |  
+|------------------------|-----------------------|------------------------|
+| 3                      | ع                    | ع                      |
+| 7                      | ح                    | ح                      |
+| 9                      | ق                    | ق                      |
+| 8                      | ه                    | هـ                     |
+| 2 (`a`, `i`)           | ء                    | همزة                  |
+| 5 (`kh`)               | خ                    | خ                      |
+
+#### Examples:
+- Arabic: **عندي سؤال**  
+  - Arabizi: **3ndi so2al**
+- Arabic: **حنا مغاربة**  
+  - Arabizi: **7na mgharba**
+- Arabic: **خدمة صعيبة**  
+  - Arabizi: **5edma s3iba**
 
 
 #### 2.2 Multiple Options for Transcription
