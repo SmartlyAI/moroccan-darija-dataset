@@ -8,14 +8,7 @@ This project aims to collect, organize, and develop a powerful multilingual data
 
 - **Darija** (written in Arabic script and Latin transcription, *Arabizi*),
 - **Modern Standard Arabic (MSA)**, and
-- **English**,
-
-### 🌟 Example
-**User Input:**  
-`كيفاش نبدل كلمة السر؟`
-
-**Expected Output:**  
-`باش تبدل كلمة السر، سير ل'نسيت كلمة السر' وبدل.`
+- **English**
 
 ## 🌍 Vision
 
@@ -24,6 +17,12 @@ This dataset will serve as the foundation for developing an **intelligent chatbo
 - Understanding **natural Darija**.
 - Identifying the context of questions.
 - Delivering **precise and tailored** responses.
+### 🌟 Example
+**User Input:**  
+`كيفاش نبدل كلمة السر؟`
+
+**Expected Output:**  
+`باش تبدل كلمة السر، سير ل'نسيت كلمة السر' وبدل.`
 
 By highlighting the richness and diversity of Moroccan culture, we aim to lay the groundwork for innovative **Natural Language Processing (NLP)** solutions.
 ---
