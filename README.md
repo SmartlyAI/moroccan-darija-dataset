@@ -26,18 +26,26 @@ This dataset will serve as the foundation for developing an **intelligent chatbo
 
 By highlighting the richness and diversity of Moroccan culture, we aim to lay the groundwork for innovative **Natural Language Processing (NLP)** solutions.
 ---
-
 ## 🤝 How to Contribute?
 
 We invite everyone to join us in this exciting project! Here's how you can contribute:
 
-1. Go to the **Issues** section of the repository: [SmartlyAI/moroccan-darija-dataset](https://github.com/SmartlyAI/moroccan-darija-dataset).
-2. Fork the project to your own GitHub account.
-3. Choose a file that suits your skills and preferences.  
-   - We provide translations in **English** and **Arabic**.  
-   - Your task is to **fill in the Darija and Arabizi translations** for the provided phrases.
+1. **[Go to the Issues section](https://github.com/SmartlyAI/moroccan-darija-dataset/issues):**
+   - Browse the available issues.
+   - Choose one and **comment on it** to have it assigned to you.
+
+2. **[Fork the Dataset Repository](https://github.com/SmartlyAI/moroccan-darija-dataset):**
+   - Create your own copy of the repository by clicking the "Fork" button.
+
+3. **Translate and fix typos:**
+   - Work on the file corresponding to your assigned issue by:
+     - Adding translations in **Darija (Arabic)** and **Arabizi (Latin)**.
+     - Fixing any typos or inconsistencies.
+
 4. If there are multiple possible synonyms, you can duplicate the phrases and provide additional translations.
-5. Once your work is done, open a **Pull Request** to submit your contribution.
+5. **Open a Pull Request:**
+   - Once your work is complete, submit a **Pull Request** for review.
+
 ## 🔍 Recommendation: Translation and Transcription Guide
 
 To maintain consistency across the dataset, here’s a guide for aligning **Darija (Arabic)**, **Arabizi**, **MSA**, and **English** translations.
