@@ -67,25 +67,28 @@ When contributing to the dataset, please follow these guidelines for transcribin
 | 2 (`a`, `i`)           | ء           | همزة                  |
 | 5 (`kh`)               | خ           | خ                      |
 
-#### 2.2 Capitalization Rules
 
-Use capitalization to differentiate between these letters:
+#### 2.2 Multiple Options for Transcription
 
-| **Small Letter** | **Capital Letter** | **Arabic Characters** |  
-|-------------------|--------------------|------------------------|
-| t                 | T                 | ت, ط                  |
-| s                 | S                 | س, ص                  |
-| d                 | D                 | د, ض                  |
+Some Arabic characters can be transcribed into **Arabizi** using different Latin representations. Contributors are encouraged to choose the most appropriate representation or provide multiple versions for flexibility. 
 
-#### 2.3 Double Letters for Emphasis
+| **Arabic Characters** | **Latin Alphabet Options** |  
+|------------------------|---------------------------|
+| ش                       | sh, ch                   |
+| غ                       | gh, r                    |
+| خ                       | kh, 5                    |
 
-Use **double characters** to refer to emphasis or the "الشدة" symbol. For example:
+#### Examples:
 
-| **Arabic Characters** | **Latin Alphabet** |  
-|------------------------|--------------------|
-| ش                       | ch                |
-| غ                       | gh                |
-| خ                       | kh                |
+- Arabic: **شحال الثمن؟**
+  - Arabizi: **sh7al thman?** or **ch7al thman?**
+- Arabic: **غالي بزاف**
+  - Arabizi: **ghali bzzaf** or **rali bzzaf**
+- Arabic: **خليني نشوف**
+  - Arabizi: **khallini nshof** or **5allini nshof**
+
+This flexibility ensures that all possible representations of **Darija** in Latin script are covered. Contributors can add multiple entries if necessary to capture synonyms or varying user preferences.
+
 
 ---
 ## 🚀 About
