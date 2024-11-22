@@ -7,9 +7,8 @@ Welcome to the **Smartly Darija NLP Project**, an ambitious open-source initiati
 This project aims to collect, organize, and develop a powerful multilingual dataset that bridges:
 
 - **Darija** (written in Arabic script and Latin transcription, *Arabizi*),
-- **Modern Standard Arabic (MSA)**,
-- **English**, and
-- **French**.
+- **Modern Standard Arabic (MSA)**, and
+- **English**,
 
 ### 🌟 Example
 **User Input:**  
