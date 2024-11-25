@@ -1,33 +1,43 @@
-Creative Commons Attribution-NonCommercial 4.0 International License
+                   GNU GENERAL PUBLIC LICENSE
+                       Version 3, 29 June 2007
 
-Copyright (c) 2024 Smartly.ai
+ Copyright (C) 2024 Smartly AI
+ This dataset is free to use: you may redistribute and/or modify it
+ under the terms of the GNU General Public License as published by
+ the Free Software Foundation, either version 3 of the License, or (at your option)
+ any later version.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this Dataset and associated documentation files, to:
+ This dataset is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+ GNU General Public License for more details.
 
-- **Share** — copy and redistribute the dataset in any medium or format.
-- **Adapt** — remix, transform, and build upon the dataset.
-
-Under the following terms:
-
-- **Attribution** — You must give appropriate credit, provide a link to this license, 
-and indicate if changes were made. You may do so in any reasonable manner, 
-but not in any way that suggests the licensor endorses you or your use.
-
-- **NonCommercial** — You may not use the dataset for commercial purposes.
-
-- **No Additional Restrictions** — You may not apply legal terms or technological 
-measures that legally restrict others from doing anything the license permits.
-
-The licensor cannot revoke these freedoms as long as you follow the license terms.
+ You should have received a copy of the GNU General Public License
+ along with this dataset. If not, see <https://www.gnu.org/licenses/>.
 
 ---
 
-DISCLAIMER:  
-THE DATASET IS PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, 
-INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR 
-PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, 
-DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, 
-OUT OF, OR IN CONNECTION WITH THE DATASET OR THE USE OR OTHER DEALINGS IN THE DATASET.
+## About This Dataset
 
+### Description
+This dataset was developed and structured by **Smartly AI** to support research and applications in the field of transliteration and semantic analysis. It is designed to be used in collaborative, academic, or professional projects.
 
+### Purpose
+- Provide an open and accessible dataset to enable research and technological development.  
+- Encourage responsible and transparent use of data.
+
+### Conditions
+1. Any redistribution or modification must comply with the terms of the GNU General Public License version 3.0.
+2. Attribution to **Smartly AI** is required for all reuse or redistribution.
+3. Derived works must be shared under the same license.
+
+---
+
+## How to Use This License for the Dataset
+
+Include this notice in any project or publication using this dataset, and specify that the project is licensed under the GNU GPLv3.
+
+---
+
+For more information about the GNU General Public License v3.0, visit:  
+<https://www.gnu.org/licenses/gpl-3.0.en.html>
