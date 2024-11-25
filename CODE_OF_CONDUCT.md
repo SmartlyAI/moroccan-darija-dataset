@@ -2,55 +2,88 @@
 
 ## About the Project
 
-The **Smartly Darija NLP Project** is dedicated to creating an open, welcoming, and harassment-free environment for contributors.  
-Our goal is to collaboratively develop a high-quality dataset for understanding Moroccan **Darija** while fostering a positive and inclusive community.
+The **Smartly Darija NLP Project** is an open-source initiative aimed at building a high-quality multilingual dataset for the Moroccan dialect, **Darija**. This dataset bridges **Darija** (in Arabic script and Arabizi), **Modern Standard Arabic**, and **English** to support innovative natural language processing (NLP) solutions.
+
+Our community is a collaborative space where contributors of all backgrounds can work together to advance linguistic research while respecting and valuing Moroccan cultural diversity.
 
 ---
 
 ## Our Pledge
 
-We pledge to ensure that all contributors can participate in this project without fear of discrimination or harassment.  
-We are committed to providing a respectful and collaborative environment for everyone, regardless of:
-- Background
-- Level of experience
-- Language or cultural differences
+We, as contributors and maintainers of the **Smartly Darija NLP Project**, pledge to foster an open, welcoming, and harassment-free environment.  
+We are committed to ensuring that everyone, regardless of age, gender identity, cultural background, language proficiency, or technical experience, can contribute meaningfully to this project.
 
 ---
 
-## Expected Behavior
+## Our Standards
 
-To contribute positively to this project, we expect participants to:
-- Show respect for different opinions and experiences.
-- Collaborate constructively and provide constructive feedback.
-- Keep discussions focused on project goals and improvements.
+### Positive Behaviors
+We encourage all contributors to:
+- Show respect for differing linguistic and cultural perspectives.
+- Provide constructive and kind feedback.
+- Accept feedback with an open mind and a focus on improving the dataset.
+- Collaborate effectively to enhance the quality and usability of the dataset.
+- Focus on the overall goals of the project and its community.
 
----
-
-## Unacceptable Behavior
-
-Examples of behaviors that are not tolerated include:
-- Disrespectful comments or personal attacks.
-- Sharing private information without consent.
-- Disruptive behavior that hinders the progress of the project.
+### Unacceptable Behaviors
+We will not tolerate:
+- Insulting or derogatory comments, personal attacks, or harassment.
+- Publishing private or sensitive information without explicit consent.
+- Disruptive behavior that undermines collaboration or project progress.
+- Deliberate submission of incorrect or harmful translations to the dataset.
 
 ---
 
 ## Reporting Issues
 
-If you encounter any behavior that violates this Code of Conduct:
-1. Open an **Issue** in the repository explaining the situation.
-2. Maintainers will review and address the issue as quickly as possible.
+If you experience or witness unacceptable behavior, please report it by opening an issue in the **[Issues section](https://github.com/SmartlyAI/moroccan-darija-dataset/issues)**.  
+Provide as much detail as possible, such as links, context, or examples.  
+
+All reports will be reviewed confidentially, and the project maintainers will take appropriate action to address the issue.
 
 ---
 
 ## Enforcement
 
-Violations of this Code of Conduct may result in:
-- A warning from project maintainers.
-- Temporary or permanent removal from participation in the project.
+The project maintainers are responsible for enforcing this Code of Conduct. They have the authority to:
+- Remove, edit, or reject comments, commits, or other contributions that violate this Code of Conduct.
+- Temporarily or permanently ban contributors whose actions violate community standards.
 
 ---
 
-## Acknowledgments
+## Enforcement Guidelines
 
-This Code of Conduct is inspired by the [Contributor Covenant](https://www.contributor-covenant.org), version 2.1.
+To ensure fair and consistent enforcement, the following guidelines will be applied:
+
+1. **Correction**  
+   **Impact**: Minor incidents such as inappropriate language or disruptive behavior.  
+   **Consequence**: A private written warning with an explanation of the violation and guidelines for future behavior.
+
+2. **Temporary Restrictions**  
+   **Impact**: Repeated minor violations or a single significant violation.  
+   **Consequence**: Restricted participation in project spaces (e.g., GitHub issues) for a specified period.
+
+3. **Permanent Ban**  
+   **Impact**: Severe violations or repeated significant violations that harm the project or its community.  
+   **Consequence**: Permanent removal from all project activities and spaces.
+
+---
+
+## Scope
+
+This Code of Conduct applies to all project spaces, including GitHub issues, pull requests, comments, and discussions.  
+It also applies when an individual is representing the project in public spaces, such as online forums or events.
+
+---
+
+## Why This Matters
+
+The success of the **Smartly Darija NLP Project** depends on the collaboration and contributions of a diverse and inclusive community.  
+By adhering to this Code of Conduct, we ensure a respectful and productive environment for everyone.
+
+---
+
+## Attribution
+
+This Code of Conduct is adapted from the [Contributor Covenant](https://www.contributor-covenant.org), version 2.1, with adjustments to align with the specific goals and values of the **Smartly Darija NLP Project**.
+
