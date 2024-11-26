@@ -1,31 +1,371 @@
-Darija (Arabic),Darija (Arabizi),Arabic Standard,English
-,,هاتف,Phone
-,,إنترنت,Internet
-,,رصيد,Recharge
-,,مكالمة,Call
-,,رسالة,SMS
-,,مشغل,Operator
-,,شبكة,Network
-,,تغطية,Coverage
-,,رصيد,Balance
-,,خطة,Plan
-,,عقد,Contract
-,,بيانات,Data
-,,إشارة,Signal
-,,اشتراك,Subscription
-,,خدمة العملاء,Customer Service
-,,دعم تقني,Technical Support
-,,رقم الهاتف,Phone Number
-,,شريحة,SIM Card
-,,مكالمة دولية,International Call
-,,التجوال,Roaming
-,,كيف يمكنني الاشتراك بخدمة الإنترنت؟,How can I subscribe to the internet service?
-,,ما هي تكلفة المكالمات الدولية؟,What is the cost of international calls?
-,,رصيدي انتهى. كيف يمكنني إعادة الشحن؟,My balance is finished. How can I recharge?
-,,ما هي الخدمات التي تقدمها الشركة؟,What services does the company offer?
-,,إشارة الشبكة ضعيفة. ماذا أفعل؟,The network signal is weak. What should I do?
-,,كيف ألغي اشتراكي الحالي؟,How can I cancel my current subscription?
-,,ما هو أفضل عرض للبيانات؟,What is the best data plan?
-,,كيف يمكنني تغيير رقم هاتفي؟,How can I change my phone number?
-,,كيف أتحقق من رصيدي؟,How can I check my balance?
-,,ما هي شروط العقد؟,What are the terms of the contract?
+Darija (Arabe),Arabizi,Arabe,Anglais
+محطة,mahata,محطة أساسية,Base Station
+محطة,mahatta,محطة أساسية,Base Station
+قوة ديال السينيال,qowa dyal signal,قوة الإشارة,Signal Strength
+قوة ديال السينيال,qowa dial signal,قوة الإشارة,Signal Strength
+قوة ديال السينيال,9owa dyal signal,قوة الإشارة,Signal Strength
+قوة ديال السينيال,9owa dial signal,قوة الإشارة,Signal Strength
+تبديل,tbdil,التبديل,Switching
+تبديل,tebdil,التبديل,Switching
+تبديل,tabdil,التبديل,Switching
+تحويل,tahwil,التبديل,Switching
+تحويل,ta7wil,التبديل,Switching
+تحويل,t7wil,التبديل,Switching
+شبكة ديال التليفون,Shabka dial tilifun,شبكة خلوية,Cellular Network
+شبكة ديال التليفون,chabka dial tilifun,شبكة خلوية,Cellular Network
+شبكة ديال التليفون,Chabka dyal tilifun,شبكة خلوية,Cellular Network
+شبكة ديال التليفون,Shabka dyal tilifun,شبكة خلوية,Cellular Network
+شبكة ديال التليفون,Chbka dial tilifun,شبكة خلوية,Cellular Network
+شبكة ديال التليفون,Shabka dial tilifun,شبكة خلوية,Cellular Network
+شبكة ديال التليفون,Shbka dyal tilifun,شبكة خلوية,Cellular Network
+شبكة ديال التليفون,chbka dyal tilifun,شبكة خلوية,Cellular Network
+شبكة ديال التليفون,Shebka dial tilifun,شبكة خلوية,Cellular Network
+شبكة ديال التليفون,chebka dial tilifun,شبكة خلوية,Cellular Network
+معطيات,mo3tayat, البيانات,Data
+معطيات,ma3tiyat, البيانات,Data
+معطيات,moatayat, البيانات,Data
+معطيات,maatiyat, البيانات,Data
+باب ديال الربط,Bab dial rbat,بوابة,Gateway
+باب ديال الربط,Bab dial rebt,بوابة,Gateway
+باب ديال الربط,Bab dial rabt,بوابة,Gateway
+نقل,na9l,الإرسال,Transmission
+نقل,ne9l,الإرسال,Transmission
+نقل,n9l,الإرسال,Transmission
+نقل,nql,الإرسال,Transmission
+نقل,naql,الإرسال,Transmission
+نقل,neql,الإرسال,Transmission
+الكلاود,lcloud,الحوسبة السحابية,Cloud Computing
+نقطة الوصول,noqtat lwosol,نقطة وصول,Access Point
+نقطة الوصول,no9tat lwosol,نقطة وصول,Access Point
+ميكرو اوند,micro ondes,الميكروويف,Microwave
+موجات الراديو,moujat radio,الموجة الراديوية,Radio Wave
+موجات الراديو,mowjat radio,الموجة الراديوية,Radio Wave
+تداخل,tadakhol,التداخل,Interference
+لادراس أيپي,ladresse ip,عنوان بروتوكول الإنترنت,IP Address
+تعدد الإخراجات,taadod likhrajat,التعدد,Multiplexing
+تعدد الإخراجات,taadod li5rajat,التعدد,Multiplexing
+تعدد الإخراجات,ta3adod likhrajat,التعدد,Multiplexing
+تعدد الإخراجات,ta3adod li5rajat,التعدد,Multiplexing
+فايروول,firewall,جدار الحماية,Firewall
+جدار ناري,jidar nari,جدار الحماية,Firewall
+فايروول,firewall,جدار الحماية,Firewall
+روتور,Routeur,موجه,Router
+الألياف البصرية,Lif Dawi,الألياف البصرية,Fiber Optics
+تردد,Taradod,تردد,Frequency
+تعديل,T3dil,تعديل,Modulation
+تعديل,Ta3dil,تعديل,Modulation
+مرسل,Morsl,مرسل,Transmitter
+مرسل,Morsel,مرسل,Transmitter
+مستقبل,Mosta9bel,مستقبل,Receiver
+مستقبل,Mosta9bil,مستقبل,Receiver
+إشارة,Sinyal,إشارة,Signal
+بروتوكول,Protocole,بروتوكول,Protocol
+شبكة,Shabka,شبكة,Network
+شبكة,chabka,شبكة,Network
+شبكة,Shbka,شبكة,Network
+شبكة,cShbka,شبكة,Network
+قمر صناعي,9amar Sina3i,قمر صناعي,Satellite
+تغطية,Taghtiya,تغطية,Coverage
+النطاق العريض,Band 3arid,النطاق العريض,Broadband
+الطيف,tayf,الطيف,Spectrum
+تليفون,Telephone,الهاتف,Telephone
+تليفون,tilifon,الهاتف,Telephone
+تليفون,tilifun,الهاتف,Telephone
+تليفون,tilifoun,الهاتف,Telephone
+تشفير,Tachfir,تشفير,Encryption
+تشفير,Tashfir,تشفير,Encryption
+تأخير,taakhir,زمن الانتظار,Latency
+تأخير,ta5ir,زمن الانتظار,Latency
+مضخم,Modakhem,مضخم,Amplifier
+مضخم,Moda5em,مضخم,Amplifier
+كابلاج,Kablaj,توصيلات الكابلات,Cabling
+تسليك,taslik,توصيلات الكابلات,Cabling
+الإيثرنت,Ethernet,الإيثرنت,Ethernet
+مشترك,Moshtarek,مشترك,Subscriber
+مشترك,Mochtarek,مشترك,Subscriber
+مشترك,Mochtark,مشترك,Subscriber
+البوابة,bawaba,البوابة,Gateway
+مراقبة الدخول,Kontrol dyal dokhol,التحكم في الوصول,Access Control
+مراقبة الدخول,Kontrol dyal do5ol,التحكم في الوصول,Access Control
+موازنة الأحمال,Tawazoun l7aml,موازنة الأحمال,Load Balancing
+موازنة الأحمال,Tawazoun lhaml,موازنة الأحمال,Load Balancing
+الانتشار,Intichar,الانتشار,Propagation
+المصافحة,Mosaf7a,المصافحة,Handshake
+المصافحة,Mosafa7a,المصافحة,Handshake
+الطوبولوجيا,topolojia,الطوبولوجيا,Topology
+مكرر,Mokarrar,مكرر,Repeater
+القناة,9anat,القناة,Channel
+القناة,qanat,القناة,Channel
+تصحيح الأخطاء,Tash7i7 l'akhata2,تصحيح الأخطاء,Error Correction
+لاسلكي,lasilki,لاسلكي,Wireless
+تطوير طويل الامد,tatwir tawil l amad,تطور طويل الأمد,Long-Term Evolution (LTE)
+شبكة ديال 5G,chebka dial 5G,شبكة الجيل الخامس,5G Network
+شبكة ديال 5G,chbka dial 5G,شبكة الجيل الخامس,5G Network
+تليفون,tiliphun,الهاتف المحمول,Mobile Phone
+تليفون,tilifun,الهاتف المحمول,Mobile Phone
+تليفون,tiliphoun,الهاتف المحمول,Mobile Phone
+تليفون,tilifoun,الهاتف المحمول,Mobile Phone
+كارت سيم,carte sim,بطاقة SIM,SIM Card
+كارت سيم,karte sim,بطاقة SIM,SIM Card
+لاپيس,la puce,بطاقة SIM,SIM Card
+كارط مشارجة,carta mcharja,مدفوع مسبقًا,Prepaid
+فورفي,forfait,مدفوع لاحقًا,Postpaid
+تحويل المكالمات,tahwil al mokalamat,تحويل المكالمات,Call Forwarding
+تحويل المكالمات,ta7wil al mokalamat,تحويل المكالمات,Call Forwarding
+رسالة صوتية,risala sawtiya,البريد الصوتي,Voicemail
+انتظار المكالمة,intidar al mokalama,انتظار المكالمة,Call Waiting
+الفوترة,al fawtara,الفوترة,Billing
+الفوترة,elfawtara,الفوترة,Billing
+الفوترة,elfawtira,الفوترة,Billing
+خدمة الزبائن,khidmat azzabayin,خدمة العملاء,Customer Service
+خدمة الزبائن,5idmat azzabayin,خدمة العملاء,Customer Service
+عقد,3aqd,عقد,Contract
+عقد,3a9d,عقد,Contract
+مكالمات بلا حد,mokalmat bla 7ad,مكالمات غير محدودة,Unlimited Calls
+مكالمات بلا حد,mokalmat bla had,مكالمات غير محدودة,Unlimited Calls
+مكالمات بلا حد,mokalamat bla had,مكالمات غير محدودة,Unlimited Calls
+مكالمات بلا حد,mokalamat bla 7ad,مكالمات غير محدودة,Unlimited Calls
+التفعيل,taf3il,التفعيل,Activation
+تغطية الشبكة,taghtiyat chabaka,تغطية الشبكة,Network Coverage
+تغطية الشبكة,taghtiyat shabaka,تغطية الشبكة,Network Coverage
+تغطية الشبكة,taghtiyat chabka,تغطية الشبكة,Network Coverage
+تغطية الشبكة,taghtiyat shabka,تغطية الشبكة,Network Coverage
+باقة الإنترنت,baqat el internet,باقة الإنترنت,Internet Package
+باقة الإنترنت,baqat al internet,باقة الإنترنت,Internet Package
+باقة الإنترنت,ba9at al internet,باقة الإنترنت,Internet Package
+باقة الإنترنت,baqat el internet,باقة الإنترنت,Internet Package
+استعمال,isti3mal,الاستهلاك,Usage
+تعبئة,ta3biya,إعادة الشحن,Recharge
+تعبئة,ta3bia,إعادة الشحن,Recharge
+مزود الخدمة,mzawad lkhidma,مزود الخدمة,Service Provider
+مزود الخدمة,mzawad l5idma,مزود الخدمة,Service Provider
+مزود الخدمة,mzawed lkhidma,مزود الخدمة,Service Provider
+مزود الخدمة,mzawed l5idma,مزود الخدمة,Service Provider
+الخط الساخن,el5at essa5in,الخط الساخن,Hotline
+الخط الساخن,elkhat essakhin,الخط الساخن,Hotline
+الخط الساخن,el5at assa5in,الخط الساخن,Hotline
+هوية المتصل,hawiyat lmotasil,هوية المتصل,Caller ID
+هوية المتصل,8awiyat lmotasil,هوية المتصل,Caller ID
+ميساج,message,خدمة الرسائل القصيرة,SMS (Short Message Service)
+ميساج,missage,خدمة الرسائل القصيرة,SMS (Short Message Service)
+ميساج مصور,message msawar,خدمة الرسائل متعددة الوسائط,MMS (Multimedia Messaging Service)
+ميساج مصور,message msawer,خدمة الرسائل متعددة الوسائط,MMS (Multimedia Messaging Service)
+تعبئة,ta3biya,شحن الرصيد,Top-up
+متجر التطبيقات,matjar ttatbikat,متجر التطبيقات,App Store
+متجر التطبيقات,matjar ettatbi9at,متجر التطبيقات,App Store
+متجر التطبيقات,matjar ttatbi9at,متجر التطبيقات,App Store
+ويفي,wifi,واي فاي,Wi-Fi
+بلوتوث,blutooth,بلوتوث,Bluetooth
+بلوتوث,bloutouth,بلوتوث,Bluetooth
+سرعة الشبكة,sor3at chabka,سرعة الشبكة,Network Speed
+سرعة الشبكة,sor3at chbka,سرعة الشبكة,Network Speed
+سرعة الشبكة,sor3at shbka,سرعة الشبكة,Network Speed
+سرعة الشبكة,sor3at shabka,سرعة الشبكة,Network Speed
+تجوال البيانات,tajwal lbayanat,تجوال البيانات,Data Roaming
+تجوال البيانات,tajwal elbayanat,تجوال البيانات,Data Roaming
+4G/5G,4G/5G,الجيل الرابع/الجيل الخامس,4G/5G
+مدة المكالمة,moddat elmokalama,مدة المكالمة,Call Duration
+مدة المكالمة,moddat elmkalma,مدة المكالمة,Call Duration
+مدة المكالمة,moddat elmokalma,مدة المكالمة,Call Duration
+مدة المكالمة,waqt lmokalmat,مدة المكالمة,Call Duration
+مدة المكالمة,waqt lmokalamat,مدة المكالمة,Call Duration
+مدة المكالمة,wa9t lmokalamat,مدة المكالمة,Call Duration
+مدة المكالمة,wa9t lmokalmat,مدة المكالمة,Call Duration
+المكالمة مفوتة,mkalmat mfawta,المكالمة الفائتة,Missed Call
+المكالمة فايتة,mkalmat fayta,المكالمة الفائتة,Missed Call
+المكالمة مفوتة,mokalmat mfawta,المكالمة الفائتة,Missed Call
+المكالمة فايتة,mokalmat fayta,المكالمة الفائتة,Missed Call
+لابيل فايتة,l'appel fayta,المكالمة الفائتة,Missed Call
+ايستوريك,historique,سجل المكالمات,Call Logs
+هيستوريك,historique,سجل المكالمات,Call Logs
+كونتاكت,contact,جهات الاتصال,Contacts
+المعارف,lm3aref,جهات الاتصال,Contacts
+المعرفة,lma3arifa,جهات الاتصال,Contacts
+صونيات,sonnayat,نغمات الرنين,Ringtones
+بارطاج ديال الإنترنت,partage dyal linternet,نقطة اتصال الهاتف المحمول,Mobile Hotspot
+نمرة ديال IMEI,nemra dyal imei,الرقم التسلسلي الدولي للجهاز,IMEI (International Mobile Equipment Identity)
+الضمان,daman,الضمان,Warranty
+جارونتي,garantie,الضمان,Warranty
+كفالة,kafala,الضمان,Warranty
+مكالمة صوتية,mokalma sawtiya,مكالمة صوتية,Voice Call
+مكالمة صوتية,mkalma sawtiya,مكالمة صوتية,Voice Call
+مكالمة فيديو,mokalma video,مكالمة فيديو,Video Call
+اپال فيديو,appel video,مكالمة فيديو,Video Call
+ابال فيديو,appel video,مكالمة فيديو,Video Call
+تطبيق ديال التليفون,tatbiq dyal tilifun,تطبيق الهاتف المحمول,Mobile Application
+تطبيق ديال التليفون,tatbiq dial tilifun,تطبيق الهاتف المحمول,Mobile Application
+تطبيق ديال التليفون,tatbi9 dial tilifun,تطبيق الهاتف المحمول,Mobile Application
+حساب ديال الزبون,hisab dial zabon,حساب العميل,Customer Account
+حساب ديال الزبون,7isab dial zabon,حساب العميل,Customer Account
+الحد ديال الإنترنت,lhad dial l'internet,حد البيانات,Data Limit
+الحد ديال الإنترنت,l7ad dial l'internet,حد البيانات,Data Limit
+الحد ديال لي جيغا,l7ad dial les gega,حد البيانات,Data Limit
+الحد ديال ليدوني,l7ad dial les données,حد البيانات,Data Limit
+دعم تقني,da3m tiqni,الدعم الفني,Technical Support
+دعم تقني,da3m tikni,الدعم الفني,Technical Support
+دعم تقني,da3m ti9ni,الدعم الفني,Technical Support
+طلب خدمة,talab khidma,طلب خدمة,Service Request
+طلب خدمة,talab 5idma,طلب خدمة,Service Request
+قطع الخدمة,qat3 lkhidma,انقطاع الخدمة,Outage
+قطع الخدمة,qat3 l5idma,انقطاع الخدمة,Outage
+خطوط ديال السينيال,5tout dial signal,أعمدة الإشارة,Signal Bars
+خطوط ديال السينيال,khtout dial signal,أعمدة الإشارة,Signal Bars
+بار ديال السينيال,lbar dial signal,أعمدة الإشارة,Signal Bars
+كود pin,kode pin,رمز التعريف الشخصي,PIN Code
+كود puk,kode pin,رمز فك القفل,PUK Code
+تسعيرة ديال المكالمات,tas3ira dial lmokalmat,تعرفة المكالمة,Call Rate
+تسعيرة ديال المكالمات,ts3ira dial lmokalmat,تعرفة المكالمة,Call Rate
+مكالمة دولية,mokalama dawliya,مكالمة دولية,International Call
+مكالمة دولية,mokalma dawliya,مكالمة دولية,International Call
+مكالمة دولية,mokalma dawlia,مكالمة دولية,International Call
+مكالمة ,mokalama,مكالمة , Call
+مكالمة ,mokalma,مكالمة , Call
+ابال,appel,مكالمة , Call
+نقل رقم الهاتف,na9l ra9m tilifun,نقل رقم الهاتف المحمول,Mobile Number Portability
+نبدل نمرة ديال تليفون,nbadel nemra dial tilifun,نقل رقم الهاتف المحمول,Mobile Number Portability
+نبدل نمرة ديال تليفون,nbadl nemra dial tilifun,نقل رقم الهاتف المحمول,Mobile Number Portability
+نقل رقم الهاتف,naql raqm tilifun,نقل رقم الهاتف المحمول,Mobile Number Portability
+الاشتراك,l ishtirak,الاشتراك,Subscription
+ابوني,abonné,الاشتراك,Subscription
+كونطرا,contra,الاشتراك,Subscription
+حل تليفون,7al tilifun,فتح الهاتف,Phone Unlocking
+حل تليفون,hal tilifun,فتح الهاتف,Phone Unlocking
+بغيت نفعل كارت SIM ديالي,Bghit nfa3el la carte sim dyali,أريد تفعيل بطاقة SIM الخاصة بي,I want to activate my SIM card.
+بغيت نفعل كارت SIM ديالي,Bghit nfa3l la carte sim dyali,أريد تفعيل بطاقة SIM الخاصة بي,I want to activate my SIM card.
+بغيت نفعل كارت SIM ديالي,Bghit nf3l la carte sim dyali,أريد تفعيل بطاقة SIM الخاصة بي,I want to activate my SIM card.
+بغيت نفعل لابيس ديالي,Bghit nfa3el la puce dyali,أريد تفعيل بطاقة SIM الخاصة بي,I want to activate my SIM card.
+بغيت نفعل لابيس ديالي,Bghit nfa3l la puce dyali,أريد تفعيل بطاقة SIM الخاصة بي,I want to activate my SIM card.
+بغيت نفعل لابيس ديالي,Bghit nf3l la puce dyali,أريد تفعيل بطاقة SIM الخاصة بي,I want to activate my SIM card.
+شحال تمن فورفي الإنترنت بلا حدود؟,Ch7al taman dial forfait internet bla 7doud,ما تكلفة خطة البيانات غير المحدودة؟,What is the cost of an unlimited data plan?
+شحال تمن فورفي الإنترنت بلا حدود؟,Ch7al taman dial forfait internet bla 7odoud,ما تكلفة خطة البيانات غير المحدودة؟,What is the cost of an unlimited data plan?
+شحال تمن فورفي الإنترنت بلا حدود؟,Ch7al taman dial forfait internet bla hodoud,ما تكلفة خطة البيانات غير المحدودة؟,What is the cost of an unlimited data plan?
+شحال تمن فورفي الإنترنت بلا حدود؟,Ch7al taman dial forfait internet bla hdoud,ما تكلفة خطة البيانات غير المحدودة؟,What is the cost of an unlimited data plan?
+شحال تمن فورفي الإنترنت بلا حدود؟,Ch7al tman dial forfait internet bla 7odoud,ما تكلفة خطة البيانات غير المحدودة؟,What is the cost of an unlimited data plan?
+واش نقدر نحول الرقم ديالي لشركة أخرى,Wash ymkn liya nbadel ra9mi l operateur akhor?,هل يمكنني نقل رقمي إلى مزود خدمة آخر؟,Can I transfer my phone number to another provider?
+واش نقدر نحول الرقم ديالي لشركة أخرى,Wash ymkn liya nbadel raqmi l operateur akhor?,هل يمكنني نقل رقمي إلى مزود خدمة آخر؟,Can I transfer my phone number to another provider?
+واش نقدر نحول الرقم ديالي لشركة أخرى,Wash ymkn liya nbadel ra9m dyali l operateur akhor?,هل يمكنني نقل رقمي إلى مزود خدمة آخر؟,Can I transfer my phone number to another provider?
+واش نقدر نحول الرقم ديالي لشركة أخرى,Wash n9dr n7awel ra9m dyali l charika o5ra?,هل يمكنني نقل رقمي إلى مزود خدمة آخر؟,Can I transfer my phone number to another provider?
+واش نقدر نحول الرقم ديالي لشركة أخرى,Wash n9dr  n7awel ra9mi l charika o5ra?,هل يمكنني نقل رقمي إلى مزود خدمة آخر؟,Can I transfer my phone number to another provider?
+واش نقدر نحول الرقم ديالي لشركة أخرى,Wash n9dr  n7awel ra9mi l charika okhra?,هل يمكنني نقل رقمي إلى مزود خدمة آخر؟,Can I transfer my phone number to another provider?
+خاصني نشحن الكونت ديالي,Khasni nach7an conte dyali,أحتاج إلى إعادة شحن حسابي المدفوع مسبقًا.,I need to recharge my prepaid account.
+خاصني نشحن الكونت ديالي,5asni nach7an conte dyali,أحتاج إلى إعادة شحن حسابي المدفوع مسبقًا.,I need to recharge my prepaid account.
+خاصني نشحن الكونت ديالي,Khasni nch7n conte dyali,أحتاج إلى إعادة شحن حسابي المدفوع مسبقًا.,I need to recharge my prepaid account.
+خاصني نشحن الكونت ديالي,5asni nch7n conte dyali,أحتاج إلى إعادة شحن حسابي المدفوع مسبقًا.,I need to recharge my prepaid account.
+خصني نشحن الكونت ديالي,Khsni nach7an conte dyali,أحتاج إلى إعادة شحن حسابي المدفوع مسبقًا.,I need to recharge my prepaid account.
+خصني نشحن الكونت ديالي,5sni nach7an conte dyali,أحتاج إلى إعادة شحن حسابي المدفوع مسبقًا.,I need to recharge my prepaid account.
+خصني نشحن الكونت ديالي,Khsni nch7n conte dyali,أحتاج إلى إعادة شحن حسابي المدفوع مسبقًا.,I need to recharge my prepaid account.
+خصني نشحن الكونت ديالي,5sni nch7n conte dyali,أحتاج إلى إعادة شحن حسابي المدفوع مسبقًا.,I need to recharge my prepaid account.
+الإنترنت ديالي بطيء بزاف، واش تقدر تعاونني؟,L internet dyali bti2a bzaf. Wch t9dr t3awni?,اتصالي بالإنترنت بطيء جدًا. هل يمكنكم المساعدة؟,My internet connection is very slow. Can you help?
+الإنترنت ديالي ثقيلة بزاف، واش تقدر تعاونني؟,L internet dyali t9ila bzaf. Wch t9dr t3awni?,اتصالي بالإنترنت بطيء جدًا. هل يمكنكم المساعدة؟,My internet connection is very slow. Can you help?
+الإنترنت ديالي ثقيلة بزاف، واش تقدر تعاونني؟,L internet dyali t9ila bzaf. Wch ymkn t3aweni?,اتصالي بالإنترنت بطيء جدًا. هل يمكنكم المساعدة؟,My internet connection is very slow. Can you help?
+كيفاش نقدر نشوف شحال استعملت من الانترنت ديالي,Kifash nqdr nchouf shhal sta3mlt mn l internet dyali?,كيف يمكنني التحقق من استهلاك البيانات الخاص بي؟,How can I check my data usage?
+كيفاش نقدر نشوف شحال استعملت من الانترنت ديالي,Kifach nqdr nchouf chhal sta3mlt mn l internet dyali?,كيف يمكنني التحقق من استهلاك البيانات الخاص بي؟,How can I check my data usage?
+كيفاش نقدر نشوف شحال استعملت من الانترنت ديالي,Kifash n9dr nchouf sh7al sta3mlt mn l internet dyali?,كيف يمكنني التحقق من استهلاك البيانات الخاص بي؟,How can I check my data usage?
+كيفاش نقدر نشوف شحال استعملت من الانترنت ديالي,Kifach n9dr nchouf chhal sta3mlt mn l internet dyali?,كيف يمكنني التحقق من استهلاك البيانات الخاص بي؟,How can I check my data usage?
+كيفاش نقدر نشوف شحال استعملت من الانترنت ديالي,Kifash n9dr nchouf sh7al st3mlt mn l internet dyali?,كيف يمكنني التحقق من استهلاك البيانات الخاص بي؟,How can I check my data usage?
+كيفاش نقدر نشوف شحال استعملت من الانترنت ديالي,Kifach n9dr nchouf chhal st3mlt mn l internet dyali?,كيف يمكنني التحقق من استهلاك البيانات الخاص بي؟,How can I check my data usage?
+جاني طلب  PUK كود، أش ندير دابا؟,jani talab puk code ach ndir daba,تلقيت طلب رمز PUK. ماذا يجب أن أفعل؟,I received a PUK code request. What should I do?
+وصلني طلب  PUK كود، شنو خاصني ندير دابا؟,wsalni talab puk code chno khasni ndir daba,تلقيت طلب رمز PUK. ماذا يجب أن أفعل؟,I received a PUK code request. What should I do?
+وصلني طلب  PUK كود، شنو خاصني ندير دابا؟,wsalni talab puk code chno 5asni ndir daba,تلقيت طلب رمز PUK. ماذا يجب أن أفعل؟,I received a PUK code request. What should I do?
+وصلني طلب  PUK كود، شنو خاصني ندير دابا؟,wsalni talab puk code chno 5sni ndir daba,تلقيت طلب رمز PUK. ماذا يجب أن أفعل؟,I received a PUK code request. What should I do?
+شنو هي تسعيرة المكالمات والأنترنت فـأوروبا,chno hiya tasirat mokalamat w internet f Europa?,ما هي رسوم التجوال في أوروبا؟,What are the roaming charges in Europe?
+شنو هي تسعيرة المكالمات والأنترنت فـأوروبا,chno hiya tasirat mokalmat w internet f Europa?,ما هي رسوم التجوال في أوروبا؟,What are the roaming charges in Europe?
+بغيت نبدل الفورفي ديالي لفورفي حسن,Bghit nbdel l-forfait dyali l-forfait hssen,أود ترقية خطة الهاتف المحمول الخاصة بي.,I would like to upgrade my mobile plan.
+بغيت نبدل الفورفي ديالي لفورفي حسن,Bghit nbdel l-forfait dyali l-forfait 7ssen,أود ترقية خطة الهاتف المحمول الخاصة بي.,I would like to upgrade my mobile plan.
+تصل بيا واحد وما جاوبتش، واش نقدر نلقا الرقم ديالو؟,"Tessl biya wa7ed w ma jawbetch, wash na9der nel9a ra9m dyalo?",فاتتني مكالمة مهمة. هل يمكنني استرداد الرقم؟,I missed an important call. Can I retrieve the number?
+التلفون ديالي ما كيبانوش فيه الخطوط ديال الشبكة. واش كاينة شي مشكل فالشبكة؟,Téléphone dyali ma kaybanosh fih l-khṭoṭ dyal l-shabka. Wash kayna chi mochkil f l-shabka?,هاتفي لا يظهر إشارات الإشارة. هل هناك مشكلة في الشبكة؟,My phone shows no signal bars. Is there an issue with the network?
+التلفون ديالي ما كيبانوش فيه الخطوط ديال الشبكة. واش كاينة شي مشكل فالشبكة؟,Téléphone dyali ma kaybanoch fih lkhṭoṭ dyal lchabka. Wash kayna chi mochkil f lchabka?,هاتفي لا يظهر إشارات الإشارة. هل هناك مشكلة في الشبكة؟,My phone shows no signal bars. Is there an issue with the network?
+كيفاش ندير التليفون ديالي باش نخليه يشارك الويفي؟,Kifach ndir tilifon dyali bach nkhalih ycharek l-wifi?,كيف يمكنني إعداد هاتفي كنقطة اتصال؟,How do I configure my phone for mobile hotspot?
+كيفاش ندير التليفون ديالي باش نخليه يشارك الويفي؟,Kifach ndir tilifon dyali bach n5alih ycharek l-wifi?,كيف يمكنني إعداد هاتفي كنقطة اتصال؟,How do I configure my phone for mobile hotspot?
+كيفاش ندير التليفون ديالي باش نبارطاجي الويفي؟,Kifach ndir tilifon dyali bach npartager l-wifi?,كيف يمكنني إعداد هاتفي كنقطة اتصال؟,How do I configure my phone for mobile hotspot?
+ماقدرتش نبعث المساجات. واش ممكن تعاوني؟,Ma qdertch nb3ath lmessajet. Wch momkin t3awnni?,لا أستطيع إرسال رسائل SMS. هل يمكنكم مساعدتي؟,I’m unable to send SMS messages. Can you assist me?
+ماقدرتش نبعث المساجات. واش ممكن تعاوني؟,Ma 9dertch nb3ath lmessajet. Wch momkin t3awnni?,لا أستطيع إرسال رسائل SMS. هل يمكنكم مساعدتي؟,I’m unable to send SMS messages. Can you assist me?
+واش نقدر نبلوكي نمرة باش ماتعيطش عليا؟,Wash ymkn lia nbloqi nemra bach ma t3iytch 3liya?,هل يمكنني حظر رقم معين من الاتصال بي؟,Can I block a specific number from calling me?
+بغيت نفعّل خدمة تسجيل المكالمات الصوتية فالحساب ديالي,Bghit nfa3el khidmat tasjil lmokalamat sawtiya flhesab dyali,أود تفعيل البريد الصوتي في حسابي.,I’d like to enable voicemail on my account.
+بغيت نفعّل خدمة تسجيل المكالمات الصوتية فالحساب ديالي,Bghit nfa3l 5idmat tasjil lmokalmat sawtiya fl7isab dyali,أود تفعيل البريد الصوتي في حسابي.,I’d like to enable voicemail on my account.
+بغيت نفعّل خدمة تسجيل المكالمات الصوتية فالحساب ديالي,Brit nf3l 5idmat tasjil lmoklmat sawtiya fl7sab dyali,أود تفعيل البريد الصوتي في حسابي.,I’d like to enable voicemail on my account.
+بغيت نفعّل خدمة تسجيل المكالمات الصوتية فالحساب ديالي,Bghit nfa3l 5dmat tasjil lmoklmat sawtiya fl7isab dyali,أود تفعيل البريد الصوتي في حسابي.,I’d like to enable voicemail on my account.
+واش المكالمات الدولية مشمولة في الخطة ديالي؟,Wash l international calls mchamlin f mobile plan?,هل المكالمات الدولية مشمولة في خطتي؟,Is international calling included in my plan?
+كيفاش نفعل انتظار المكالمات على الهاتف ديالي؟,Kifash nafa3el call waiting f phone dyali?,كيف يمكنني تفعيل انتظار المكالمات على هاتفي؟,How do I activate call waiting on my phone?
+الهاتف ديالي ضاع، واش تقدر تعطل بطاقة SIM؟,L tel dyali tf9ed. Wash t9dr tdisable SIM card?,فقدت هاتفي. هل يمكنكم تعطيل بطاقة SIM؟,I lost my phone. Can you disable the SIM card?
+كيفاش نقدر نتواصل مع خدمة العملاء؟,Kifash nqdr ncontacti customer service?,كيف يمكنني التواصل مع خدمة العملاء؟,How can I contact customer service?
+شحال مدة الضمان ديال هذا الجهاز؟,Ch7al modt l warranty dyal mobile device had?,ما هي فترة الضمان لهذا الجهاز المحمول؟,What is the warranty period for this mobile device?
+كيفاش نقدر ندير ضبط الشبكة يدويًا؟,Kifash nqdr ndir dabet shabka yedwiya?,كيف يمكنني إعداد الشبكة يدويًا؟,How can I configure the network manually?
+شنو الفرق بين الخط المدفوع مسبقًا والمفوتر؟,Chno l ferq bin l 7essab mdfa3 msb9an w mftwr?,ما الفرق بين الخط المدفوع مسبقًا والخط المفوتر؟,What is the difference between prepaid and postpaid?
+كيفاش نحصل على نسخة من فاتورتي؟,Kifash nhsol 3la noskha mn fatourti?,كيف يمكنني الحصول على نسخة من فاتورتي؟,How can I get a copy of my bill?
+شحال هي السرعة ديال الأنترنت في خطتي؟,Ch7al hiya sor3a dyal l internet f khdti?,ما هي سرعة الإنترنت المضمنة في خطتي؟,What is the internet speed in my plan?
+كيفاش نقدر نغير رمز PIN ديال SIM ديالي؟,Kifash nqdr nghyer l PIN code dyal SIM?,كيف يمكنني تغيير رمز PIN لبطاقة SIM الخاصة بي؟,How can I change the PIN code of my SIM card?
+شنو الخطوات باش نفتح هاتفي المغلق؟,Chno l khotwat bach nfth l tel dyali mgl9?,ما هي الخطوات لفتح هاتفي المغلق؟,What are the steps to unlock my phone?
+كيفاش نقدر نستعمل الأنترنت خارج البلاد؟,Kifash nqdr nsta3mel l internet kharej lblad?,كيف يمكنني استخدام الإنترنت أثناء السفر؟,How can I use the internet while traveling?
+شحال تكلفة المكالمات الدولية من المغرب؟,Ch7al taklifa dyal l mkalamat dwliya mn lmghrib?,ما هي تكلفة المكالمات الدولية من المغرب؟,What is the cost of international calls from Morocco?
+كيفاش نقدر نوقف خدمة التجوال؟,Kifash nqdr nwaqf khidmat l tgwal?,كيف يمكنني إيقاف خدمة التجوال؟,How can I disable roaming services?
+شحال هي المهلة ديال أداء الفاتورة؟,Ch7al hiya l mohla dyal ada2 l fatoura?,ما هي المهلة الزمنية لتسديد الفاتورة؟,What is the payment deadline for my bill?
+كيفاش ندير باش ندير بلاك لي الرقم المزعج؟,Kifash ndiro bach nblocki ra9m moz3ij?,كيف يمكنني حظر رقم مزعج؟,How can I block a nuisance number?
+كيفاش نقدر نغير اسم الشبكة ديالي؟,Kifash nqdr nghyer smya dyal l shabka dyali?,كيف يمكنني تغيير اسم الشبكة الخاصة بي؟,How can I change the name of my network?
+شحال تكلفة الخدمة ديال تغيير الرقم؟,Ch7al taklifa dyal khidmat taghyer ra9m?,ما هي تكلفة خدمة تغيير الرقم؟,What is the cost of changing my phone number?
+شنو ندير إذا لقيت خطأ في الفاتورة؟,Chno ndiro ila lqit khata2 f l fatoura?,ماذا أفعل إذا وجدت خطأ في فاتورتي؟,What should I do if I find an error in my bill?
+كيفاش نقدر نزيد واحد الخدمة في الخطة ديالي؟,Kifash nqdr nzid wa7d l khidma f l khdti?,كيف يمكنني إضافة خدمة جديدة إلى خطتي؟,How can I add a new service to my plan?
+شنو ندير إذا مشكلتي التقنية ما تحلتش؟,Chno ndiro ila mochkilti t9niya ma t7llatch?,ماذا أفعل إذا لم يتم حل مشكلتي التقنية؟,What should I do if my technical issue is not resolved?
+كيفاش نقدر نشوف التاريخ ديال المكالمات ديالي؟,Kifash nqdr nchouf l tareekh dyal mkalamat dyali?,كيف يمكنني رؤية سجل المكالمات الخاص بي؟,How can I view my call history?
+شحال خصني باش نرجع الخط ديالي مفعل؟,Ch7al khasni bach nrj3 l khat dyali mfa3al?,كم المدة اللازمة لإعادة تفعيل خطي؟,How long does it take to reactivate my line?
+كيفاش نقدر نتأكد من صلاحية بطاقة SIM ديالي؟,Kifash nqdr nt2aked mn salahiya dyal SIM dyali?,كيف يمكنني التأكد من صلاحية بطاقة SIM الخاصة بي؟,How can I verify the validity of my SIM card?
+شنو الويفايلات اللي يقدرو يخدمو فخطتي؟,Chno l wifi points li y9dro ykhdmo f khdti?,ما هي نقاط الواي فاي التي أستطيع استخدامها ضمن خطتي؟,What Wi-Fi hotspots can I access in my plan?
+كيفاش نقدر نغير الباقة ديالي للإنترنت؟,Kifash nqdr nghyer l ba9a dyal l internet?,كيف يمكنني تغيير باقة الإنترنت الخاصة بي؟,How can I change my internet package?
+شحال هي ثمن الدقائق الزائدة على الباقة؟,Ch7al hiya thaman dyal da9i9 zaida 3la l ba9a?,ما هو ثمن الدقائق الزائدة على الباقة؟,What is the cost of extra minutes beyond my plan?
+كيفاش ندير باش نوقف الاشتراك الشهري؟,Kifash ndir bach nwaqf l ishtirak shhri?,كيف يمكنني إلغاء الاشتراك الشهري؟,How can I cancel my monthly subscription?
+شنو الخدمات المجانية المضمنة في خطتي؟,Chno l khidmat l majania l madhmouja f khdti?,ما هي الخدمات المجانية المضمنة في خطتي؟,What free services are included in my plan?
+كيفاش نقدر ندير ربط بين هاتفي وجهاز آخر؟,Kifash nqdr ndir rabt bin hatfi w jihaz akhor?,كيف يمكنني ربط هاتفي بجهاز آخر؟,How can I tether my phone to another device?
+شحال تكلفة المكالمات نحو الأرقام الخاصة؟,Ch7al taklifa mkalamat na7o l ar9am lkhasa?,ما هي تكلفة المكالمات إلى الأرقام الخاصة؟,What is the cost of calls to special numbers?
+شنو خاصني ندير إذا الباقة ديالي سالات؟,Chno khasni ndir ila l ba9a dyali salat?,ماذا أفعل إذا انتهت باقة الإنترنت الخاصة بي؟,What should I do if my internet package runs out?
+كيفاش نقدر نفعل التنبيه لما يخلص الرصيد ديالي؟,Kifash nqdr nf3al tanbih lma ykhlas l rsid dyali?,كيف يمكنني تفعيل تنبيه عند انتهاء الرصيد؟,How can I activate a notification when my balance runs out?
+شحال ثمن استبدال بطاقة SIM؟,Ch7al thaman dyal istibdal SIM card?,ما هي تكلفة استبدال بطاقة SIM؟,What is the cost of replacing a SIM card?
+كيفاش ندير تحديث معلوماتي الشخصية؟,Kifash ndir tahdith l ma3loumat shakhsiya dyali?,كيف يمكنني تحديث معلوماتي الشخصية؟,How can I update my personal information?
+شنو الزيادات اللي تقدرو تضيفوها للباقة ديالي؟,Chno l ziyatat lli tqadro tzidoha f ba9a dyali?,ما هي الإضافات التي يمكنكم توفيرها في خطتي؟,What add-ons can I get for my plan?
+كيفاش نقدر نوقف الإعلانات النصية؟,Kifash nqdr nwaqf l i3lanat l nasiyya?,كيف يمكنني إيقاف الإعلانات النصية؟,How can I stop text advertisements?
+شنو خاصني ندير إذا ما توصلتش بالمكالمات؟,Chno khasni ndir ila ma twsltech b mkalamat?,ماذا أفعل إذا لم تصلني المكالمات؟,What should I do if I’m not receiving calls?
+شحال خاصني باش نكمل تحميل هاد التطبيق؟,Ch7al khasni bach nkml tahmil had ttabiq?,كم أحتاج من الوقت لإنهاء تحميل هذا التطبيق؟,How much data/time do I need to finish downloading this app?
+كيفاش نقدر نفعل خاصية الرسائل المتعددة الوسائط؟,Kifash nqdr nf3al khassiyat rasail mt3adda lwasa2it?,كيف يمكنني تفعيل خاصية الرسائل متعددة الوسائط؟,How can I activate multimedia messaging (MMS)?
+شحال مدة تفعيل بطاقة SIM جديدة؟,Ch7al modt tf3il SIM card jdida?,كم من الوقت يستغرق تفعيل بطاقة SIM جديدة؟,How long does it take to activate a new SIM card?
+شنو الخطوات لاستعادة الرقم ديالي؟,Chno l khotwat li raja3 l ra9m dyali?,ما هي الخطوات لاستعادة رقمي المفقود؟,What are the steps to recover my lost number?
+كيفاش نقدر نعرف شحال خاصني ديال الرصيد؟,Kifash nqdr n3rf ch7al khasni dial l rsid?,كيف يمكنني معرفة الرصيد المطلوب لدي؟,How can I check how much credit I need?
+شنو الويفايات المجانية اللي يقدرو يخدمو عندكم؟,Chno l wifi points l majania lli tqadro t3tiw?,ما هي نقاط الواي فاي المجانية التي تقدمونها؟,What free Wi-Fi hotspots do you provide?
+كيفاش نقدر نتصل بدعم العملاء عبر الإنترنت؟,Kifash nqdr ntasil b da3m l3omala 3an tari9 l internet?,كيف يمكنني الاتصال بدعم العملاء عبر الإنترنت؟,How can I contact customer support online?
+كيفاش نقدر نغير الرقم السري ديال الواي فاي؟,Kifash nqdr nghyer ra9m sirri dyal wifi?,كيف يمكنني تغيير الرقم السري للواي فاي؟,How can I change my Wi-Fi password?
+شحال تكلفة الإنترنت الإضافي في خطتي؟,Ch7al taklifa dial l internet ida fi khdti?,ما هي تكلفة الإنترنت الإضافي في خطتي؟,What is the cost of additional internet in my plan?
+كيفاش نقدر نعرف شحال بقا ليا من الرصيد؟,Kifash nqdr n3rf ch7al b9a lya mn rsid?,كيف يمكنني معرفة الرصيد المتبقي لدي؟,How can I check my remaining balance?
+شنو ندير إذا فقدت هاتفي؟,Chno ndir ila f9dt hatfi?,ماذا أفعل إذا فقدت هاتفي؟,What should I do if I lose my phone?
+شنو الخدمة المناسبة لي باش نستخدمها خارج البلاد؟,Chno l khidma l monasba bach nsta3mlha kharej lblad?,ما هي الخدمة الأنسب لي أثناء السفر؟,What is the best service for me while traveling?
+شحال مدة الانتظار باش نرد على مكالمتي؟,Ch7al modt l intidar bach nrdd 3la mkalamat?,كم مدة الانتظار للرد على مكالمتي؟,What is the waiting time to answer my call?
+كيفاش نقدر نسجل المكالمات ديالي؟,Kifash nqdr nsjl l mkalamat dyali?,كيف يمكنني تسجيل مكالماتي؟,How can I record my calls?
+كيفاش نقدر نشغل خاصية عدم الإزعاج؟,Kifash nqdr nshghl khasiyat 3dm l iz3aj?,كيف يمكنني تفعيل خاصية عدم الإزعاج؟,How can I enable the 'Do Not Disturb' feature?
+شحال خصني من الوقت باش نتوصل بجهاز جديد؟,Ch7al khasni mn l waqt bach ntwasl b jihaz jdida?,كم أحتاج من الوقت لاستلام جهاز جديد؟,How long will it take to receive a new device?
+شنو الخدمة اللي كتدعم الدفع الإلكتروني؟,Chno l khidma lli katd3m l dafa3 l elektroniyya?,ما هي الخدمة التي تدعم الدفع الإلكتروني؟,What services support online payments?
+شحال سرعة التحميل فهاد الخطة؟,Ch7al sor3a dial t7mil f had l khdta?,ما هي سرعة التحميل في هذه الخطة؟,What is the download speed in this plan?
+كيفاش نقدر نغير عنوان الفاتورة ديالي؟,Kifash nqdr nghyer 3nwan l fatoura dyali?,كيف يمكنني تغيير عنوان الفاتورة الخاصة بي؟,How can I change my billing address?
+شحال خصني باش نحل مشكل الشبكة؟,Ch7al khasni bach nhll mochkil shabka?,كم أحتاج من الوقت لحل مشكلة الشبكة؟,How long will it take to resolve a network issue?
+شنو خاصني ندير باش نزيد باقة ديال المكالمات؟,Chno khasni ndir bach nzid ba9a dial l mkalamat?,ماذا أفعل لإضافة باقة مكالمات جديدة؟,What should I do to add a new call package?
+شنو هي القنوات اللي يقدرو يخدمو فالباقة ديالي؟,Chno hiya l qanawat lli y9dro ykhdmo f l ba9a dyali?,ما هي القنوات التي يمكنني استخدامها في خطتي؟,What channels are available in my plan?
+كيفاش نقدر نغير تاريخ الدفع الشهري؟,Kifash nqdr nghyer tareekh l dafa3 shhri?,كيف يمكنني تغيير تاريخ الدفع الشهري؟,How can I change my monthly payment date?
+شحال خصني باش نفعل الإنترنت في هاتفي؟,Ch7al khasni bach nf3l l internet f hatfi?,كم أحتاج من الوقت لتفعيل الإنترنت على هاتفي؟,How long does it take to activate internet on my phone?
+شنو خاصني باش نفعل المكالمات الدولية؟,Chno khasni bach nf3l mkalamat dwaliya?,ما الذي أحتاجه لتفعيل المكالمات الدولية؟,What do I need to activate international calls?
+كيفاش نقدر نعرف واش خطي خدام مزيان؟,Kifash nqdr n3rf wach l khat dyali khdam mzyan?,كيف يمكنني التأكد من أن خطي يعمل بشكل جيد؟,How can I check if my line is working properly?
+كيفاش نقدر نفعل الخدمة ديال البريد الصوتي المرئي؟,Kifash nqdr nf3al lkhidma dyal lbarid sawti mar'i?,كيف يمكنني تفعيل خدمة البريد الصوتي المرئي؟,How can I activate the visual voicemail service?
+واش نقدر نشارك الباقة ديال البيانات ديالي مع جهاز آخر؟,Wash nqdr ncharak lba9a dyal lbayanat dyali m3a jihaz akhor?,هل يمكنني مشاركة باقة البيانات الخاصة بي مع جهاز آخر؟,Can I share my data plan with another device?
+كيفاش نقدر نتأكد من الرصيد ديالي؟,Kifash nqdr nt2akkad mn lrsid dyali?,كيف يمكنني التحقق من رصيدي؟,How can I check my credit balance?
+التليفون ديالي ما كيشدش الشبكة، شنو ندير؟,"L-telephone dyali ma kaychddch sh-shabka, chno ndir?",هاتفي لا يلتقط الشبكة، ماذا أفعل؟,"My phone doesn't get network signal, what should I do?"
+كيفاش نقدر نمدد الصلاحية ديال الباقة ديالي؟,Kifash nqdr nmdded ssalahiya dyal lba9a dyali?,كيف يمكنني تمديد صلاحية باقتي؟,How can I extend the validity of my plan?
+واش عندكم عروض خاصة بالطلبة؟,Wash 3ndkom 3roud khassa b ttalaba?,هل لديكم عروض خاصة بالطلاب؟,Do you have special offers for students?
+كيفاش نفعل الإشعارات ديال الاستهلاك؟,Kifash nf3al l'icha3arat dyal l'istihlak?,كيف يمكنني تفعيل إشعارات الاستهلاك؟,How can I activate consumption notifications?
+كيجيني مكالمات مزعجة، كيفاش نقدر نحظرهم؟,"Kayjini mkalamat moz3ija, kifash nqdr n7athrom?",تصلني مكالمات مزعجة، كيف يمكنني حظرها؟,"I'm receiving unwanted calls, how can I block them?"
+واش التليفون ديالي متوافق مع 5G؟,Wash l-telephone dyali mtwafaq m3a 5G?,هل هاتفي متوافق مع تقنية الجيل الخامس؟,Is my phone compatible with 5G?
+كيفاش نقدر نسترجع الكود PIN ديالي؟,Kifash nqdr nstرجع l-code PIN dyali?,كيف يمكنني استعادة رمز PIN الخاص بي؟,How can I retrieve my PIN code?
+واش نقدر نخلص الفاتورة ديالي عبر الإنترنت؟,Wash nqdr nkhallas l-fatoura dyali 3بر l-internet?,هل يمكنني دفع فاتورتي عبر الإنترنت؟,Can I pay my bill online?
+كيفاش نغير اللغة ديال المجيب الآلي ديالي؟,Kifash nghyer l-lugha dyal l-mujib al-ali dyali?,كيف يمكنني تغيير لغة الرد الآلي الخاص بي؟,How can I change the language of my voicemail?
+ضيعت الكود ديال التعبئة، شنو ندير؟,"Day3t l-code dyal t3bi'a, chno ndir?",أضعت رمز التعبئة، ماذا أفعل؟,"I lost my recharge code, what should I do?"
+واش خدمة الزبناء متاحة 24 ساعة؟,Wash khidmat zzabana mtaha 24 sa3a?,هل خدمة العملاء متاحة على مدار 24 ساعة؟,Is customer service available 24 hours?
+كيفاش نفعل البيانات المتنقلة خارج البلاد؟,Kifash nf3al l-bayanat l-mutanakila kharej l-blad?,كيف يمكنني تفعيل البيانات المتنقلة أثناء السفر؟,How can I activate mobile data abroad?
+واش نقدر نستافد من تخفيض إلا جدّدت العقد ديالي؟,Wash nqdr nstafad mn tkhfidh ila jdddt l-3aqd dyali?,هل يمكنني الحصول على تخفيض عند تجديد عقدي؟,Can I get a discount if I renew my contract?
+الشاشة ديالي تكسرت، واش الضمان كيغطيها؟,"L-chacha dyali tksrat, wash d-daman kighattiha?",تحطمت شاشتي، هل يشملها الضمان؟,"My screen is broken, does the warranty cover it?"
+كيفاش ننقل جهات الاتصال ديالي لتليفون جديد؟,Kifash nnql jihat l-ittisal dyali l-telephone jdyd?,كيف يمكنني نقل جهات الاتصال إلى هاتف جديد؟,How can I transfer my contacts to a new phone?
+واش نقدر نوقف الخط ديالي مؤقتًا؟,Wash nqdr nwaqaf l-khat dyali mo'aqqatan?,هل يمكنني تعليق خطي مؤقتًا؟,Can I temporarily suspend my line?
+كيفاش نفعل الشريحة المزدوجة في التليفون ديالي؟,Kifash nf3al chariha l-mozdawaja f l-telephone dyali?,كيف يمكنني تفعيل الشريحة المزدوجة على هاتفي؟,How can I activate dual SIM on my phone?
