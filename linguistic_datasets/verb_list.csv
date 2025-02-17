@@ -1,4 +1,4 @@
-Darija (Arabe),Arabizi,Arabe,Anglais
+Darija_Arabe,Arabizi,Arabe_Standard,Anglais
 كلا,kla,أكل,eat
 شرب,chrb,شرب,drink
 شرب,shrb,شرب,drink
@@ -642,7 +642,7 @@ Darija (Arabe),Arabizi,Arabe,Anglais
 دفع,dfa3,دفع,push
 دفع,dfaa,دفع,push
 دفع,dfa,دفع,push
-ورّك,wrrk,ضغط,press
+ورّك,,wrrkضغط,press
 ورّك,wrk,ضغط,press
 ورّك,werrek,ضغط,press
 ورّك,werek,ضغط,press
